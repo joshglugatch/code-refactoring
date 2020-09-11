@@ -6,7 +6,10 @@ A practice session of refactoring code for accessibility and search engine optim
 * CSS
   
 ## Deployed Link:
+https://joshglugatch.github.io/code-refactoring/ 
 
+## GitHub Repository:
+https://github.com/joshglugatch/code-refactoring
   
 #### Author:
 Josh Glugatch
