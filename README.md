@@ -19,7 +19,7 @@ Josh Glugatch
 <br>
 <br>  
 
-[MIT License](https://www.mit.edu/~amini/LICENSE.md)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://www.mit.edu/~amini/LICENSE.md)
 
 
 
