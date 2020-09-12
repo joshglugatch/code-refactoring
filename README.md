@@ -12,9 +12,11 @@ https://joshglugatch.github.io/code-refactoring/
 https://github.com/joshglugatch/code-refactoring
   
 #### Author:
-Josh Glugatch
+Josh Glugatch  
+www.linkedin.com/in/joshua-glugatch  
+https://github.com/joshglugatch
   
-#### License
+    
 MIT License
 
 
